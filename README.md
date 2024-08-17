@@ -1,3 +1,4 @@
+<img src="https://github.com/nayandeshmane/nayandeshmane/blob/d6aa3557d1299095b51fad3f6a5364f7152a92dc/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" />
 <h1 align="center">Hi 👋, I'm Nayan Deshmane</h1>
 <h3 align="center">A passionate Data Scientist | Data Analyst from India</h3>
 
